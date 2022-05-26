@@ -1,4 +1,4 @@
-BOT_TOKEN = "5365970722:AAEiSqICDTEECtwPEdS3flTxyzuEyJu5taY"
+BOT_TOKEN = 
 admin_id = 409410238
 # WEATHER_TOKEN = "11c0d3dc6093f7442898ee49d2430d20"
 API_LINK_WEATHER = "https://api.openweathermap.org/data/2.5/weather?"
